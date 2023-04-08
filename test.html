@@ -13,14 +13,39 @@
     ">Show Quantity</button>
 
   <button onclick="
-    cartQuantity = cartQuantity + 1;
-    console.log(`В корзине товара: ${cartQuantity}`);
+    cartQuantity ++;
+    console.log(`Добавлен: ${cartQuantity}`);
   ">Add to cart</button>
 
 
-  <button>+2</button>
-  <button>+3</button>
-  <button>Reset Cart</button>
+  <button onclick="
+    cartQuantity += 2;
+    console.log(`Добален: ${cartQuantity}`);
+  ">+2</button>
+
+
+  <button onclick="
+    cartQuantity += 3;
+    console.log(`Добавлен: ${cartQuantity}`); 
+  ">+3</button>
+
+
+  <button onclick="
+    cartQuantity = 0;
+    console.log(`Сброс/Товара в корзине: ${cartQuantity, cartQuantityMinus, cartQuantityPlus}`);
+  ">Reset Cart</button>
+
+
+  <button onclick="
+    cartQuantityMinus --;
+    console.log(`Кол-во: ${cartQuantityMinus}`);
+  ">-</button>
+
+
+  <button onclick="
+    cartQuantityPlus ++;
+    console.log(`Кол-во: ${cartQuantityPlus}`);
+  ">+</button>
   
 
 
@@ -28,6 +53,8 @@
 
   <script>
     let cartQuantity = 0;
+    let cartQuantityMinus = 0;
+    let cartQuantityPlus = 0;
   </script>
 </body>
 </html>
