@@ -1,0 +1,44 @@
+{
+  "productsone": [
+    {
+      "id": 1,
+      "title": "Барный стул Halmar H-102 (темно-зеленый)",
+      "price": "263 руб./шт.",
+      "sale": "-25%",
+      "oldprice": "362 руб./шт.",
+      "quantitu": 5,
+      "url": "./assets/images/image-1.jpeg",
+      "category": "Мебель для кухни"
+    },
+    {
+      "id": 2,
+      "title": "Барный стул Halmar H-102 (темно-зеленый)",
+      "price": "263 руб./шт.",
+      "sale": "-5%",
+      "oldprice": "362 руб./шт.",
+      "quantitu": 5,
+      "url": "./assets/images/image-2.jpeg",
+      "category": "Мебель для кухни"
+    },
+    {
+      "id": 3,
+      "title": "Барный стул Halmar H-102 (темно-зеленый)",
+      "price": "263 руб./шт.",
+      "sale": "-15%",
+      "oldprice": "362 руб./шт.",
+      "quantitu": 5,
+      "url": "./assets/images/image-3.png",
+      "category": "Мебель для кухни"
+    },
+    {
+      "id": 4,
+      "title": "Барный стул Halmar H-102 (темно-зеленый)",
+      "price": "263 руб./шт.",
+      "sale": "-85%",
+      "oldprice": "362 руб./шт.",
+      "quantitu": 5,
+      "url": "./assets/images/image-4.jpg",
+      "category": "Мебель для кухни"
+    }  
+  ]
+}

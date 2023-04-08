@@ -1,0 +1,132 @@
+{
+  "productsthree": [
+    {
+      "id": 1,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "130",
+      "sale": "-25%",
+      "url": "assets/products/stul-1.jpg",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "210",
+      "sale": "-25%",
+      "url": "assets/products/stul-2.jpg",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "90",
+      "sale": "-25%",
+      "url": "assets/products/stul-3.jpg",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "100",
+      "sale": "-25%",
+      "url": "assets/products/stul-4.jpg",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "100",
+      "sale": "-25%",
+      "url": "assets/products/stul-5.jpg",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "50",
+      "sale": "-25%",
+      "url": "assets/products/teka-1.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "50",
+      "sale": "-25%",
+      "url": "assets/products/teka-2.jpg",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "300",
+      "sale": "-25%",
+      "url": "assets/products/teka-3.jpg",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "300",
+      "sale": "-25%",
+      "url": "assets/products/stul-1.jpg",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "300",
+      "sale": "-25%",
+      "url": "assets/products/stul-4.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "700",
+      "sale": "-25%",
+      "url": "assets/products/teka-1.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "500",
+      "sale": "-25%",
+      "url": "assets/products/stul-1.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "900",
+      "sale": "-25%",
+      "url": "assets/products/stul-2.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "100",
+      "sale": "-25%",
+      "url": "assets/products/stul-3.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "250",
+      "sale": "-25%",
+      "url": "assets/products/stul-2.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "title": "Стул кухонный Signal SMART II (белый)",
+      "price": "350",
+      "sale": "-25%",
+      "url": "assets/products/stul-4.jpg",
+      "category": "Accessories"
+    }
+  ]
+}
